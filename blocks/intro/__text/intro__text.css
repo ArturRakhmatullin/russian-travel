@@ -5,6 +5,8 @@
     line-height: 163%;
     color: white;
     max-width: 690px;
+    list-style-type: none;
+    padding-left: 0px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {

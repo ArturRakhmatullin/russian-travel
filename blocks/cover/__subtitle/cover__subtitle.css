@@ -7,6 +7,7 @@
     text-align: center;
     color: #FFFFFF;
     margin-top: 429px;
+    width: 360px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
@@ -26,6 +27,7 @@
         margin-top: calc((100vw - 320px) * 0.401 + 119px);
         font-size: calc((100vw - 320px) * 0.0089 + 14px);
         line-height: 122%;
+        width: 288px;
     }
 }
 
@@ -34,5 +36,6 @@
         margin-top: 119px;
         font-size: 14px;
         line-height: 114%;
+        width: 288px;
     }
 }

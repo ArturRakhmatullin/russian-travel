@@ -7,6 +7,7 @@
     color: #FFFFFF;
     margin-top: 245px;
     text-decoration: none;
+    width: 560px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
@@ -26,6 +27,7 @@
         margin-top: calc((100vw - 320px) * 0.183 + 33px);
         font-size: calc((100vw - 320px) * 0.029 + 32px);
         line-height: 109%;
+        width: 288px;
     }
 }
 
@@ -34,5 +36,6 @@
         margin-top: 33px;
         font-size: calc((100vw - 320px) * 0.029 + 32px);
         line-height: 109%;
+        width: 288px;
     }
 }
