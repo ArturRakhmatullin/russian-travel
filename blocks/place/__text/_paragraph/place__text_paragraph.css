@@ -12,6 +12,12 @@
     padding-top: 26px;
 }
 
+@media screen and (max-width: 768px) {
+    .place__text_paragraph {
+        margin-left: 0px;
+    }
+}
+
 @media screen and (min-width: 320px) and (max-width: 768px) {
     .place__text_paragraph:last-child {
         padding-top: 25px;
