@@ -1,6 +1,6 @@
 @font-face {
     font-family: Inter;
-    font-style: normal;
-    src: url(/font/Inter/Inter-Regular.otf) format(opentype),
-    url(/font/Inter/Inter-V.ttf) format(truetype);
+    src: url(../font/Inter2/Inter-Regular.ttf),
+    url(../font/Inter2/Inter-Black.ttf), 
+    url(../font/Inter2/Inter-Bold.ttf);
 }
