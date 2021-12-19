@@ -8,6 +8,7 @@
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
     .place__text {
         width: 484px;
+        max-height: 460px;
         margin-left: 40px;
     }
 }
@@ -15,6 +16,7 @@
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .place__text {
         width: 456px;
+        max-height: 440px;
         margin-left: 32px;
     }
 }
