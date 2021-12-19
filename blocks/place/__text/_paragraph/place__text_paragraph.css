@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 321px) and (max-width: 768px) {
     .place__text_paragraph:last-child {
         padding-top: 25px;
     }
@@ -32,4 +32,11 @@
     .place__text_paragraph:first-child {
         padding-top: 0px;
     }    
+}
+
+@media screen and (max-width: 320px) {
+    .place__text_paragraph {
+        white-space: pre-wrap;
+        padding-top: 25px;
+    }
 }
