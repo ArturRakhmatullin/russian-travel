@@ -1,4 +1,9 @@
 .cover {
-    margin-top: 12px;
-    display: flex;
+  padding: 0 48px;
+}
+
+@media screen and (max-width: 1184px) {
+  .cover {
+    padding: 0;
+  }
 }

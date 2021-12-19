@@ -1,6 +1,5 @@
 .place__website {
     max-width: 456px;
-    
     margin-left: 40px;
     margin-bottom: 48px;
     align-self: flex-end;
@@ -12,7 +11,7 @@
     position: relative;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__website {
         width: 456px;
         margin-left: 32px;

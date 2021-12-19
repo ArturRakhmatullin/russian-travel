@@ -5,7 +5,7 @@
     margin-top: 0px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__text {
         width: 456px;
         margin-left: 32px;
