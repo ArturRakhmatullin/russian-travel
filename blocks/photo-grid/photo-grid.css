@@ -8,13 +8,13 @@
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
     .photo-grid {
         margin-top: 64px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 319px) {
     .photo-grid {
         margin-top: calc(100vw / 5);
     }
