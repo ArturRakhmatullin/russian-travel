@@ -6,7 +6,7 @@
     text-align: center;
     color: white;
     margin-top: 0px;
-    margin-bottom: 64px;
+    padding-bottom: 64px;
     align-self: center;
     margin-block-start: 0px;
     margin-block-end: 0px;
@@ -14,7 +14,7 @@
 
 @media screen and (min-width: 321px) and (max-width: 1024px) {
     .section-subtitle {
-        margin-bottom: 56px;
+        padding-bottom: 56px;
     }
 }
 
