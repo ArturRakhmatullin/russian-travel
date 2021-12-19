@@ -33,5 +33,6 @@
     .place__text {
         width: 90%;
         margin-left: 0px;
+        margin-top: 32px;
     }
 }
