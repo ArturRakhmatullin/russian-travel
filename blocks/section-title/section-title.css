@@ -6,21 +6,22 @@
     text-align: center;
     line-height: 104%;
     color: white;
+    padding-bottom: 32px;
     margin-top: 56px;
-    margin-bottom: 32px;
     align-self: center;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 1024px) {
     .section-title {
-        font-size: 10vw;
-        line-height: 100%;
+        margin-top: 48px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .section-title {
-        font-size: 10vw;
-        line-height: 90%;
+        font-size: 40px;
+        line-height: 44px;
     }
 }
