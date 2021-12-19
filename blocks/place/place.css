@@ -1,7 +1,7 @@
 .place {
     display: flex;
     flex-wrap: wrap;
-    max-width: 984px;
+    max-width: 1280px;
     margin-bottom: 80px;
 }
 
@@ -9,29 +9,28 @@
     margin-bottom: 0px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
     .place {
         margin-left: calc((100% - 984px) / 2);
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 1024px) {
     .place {
         margin-left: 48px;
-        margin-bottom: 72px;
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 321px) and (max-width: 768px) {
     .place {
-        margin-left: 16px;
-        margin-bottom: 50px;
+        margin-left: 24px;
+        margin-bottom: 73px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place {
-        margin-left: 7.5%;
+        margin-left: 16px;
         margin-bottom: 50px;
     }
 }

@@ -53,3 +53,9 @@
       padding: 20px 16px;
     }
   }
+
+  @media screen and (max-width: 320px) {
+    .cover__item {
+      max-height: 200px;
+    }
+  }
