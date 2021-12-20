@@ -8,16 +8,14 @@
 
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
     .place__text {
-        width: 484px;
-        max-height: 460px;
+        max-width: 484px;
         margin-left: 40px;
     }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .place__text {
-        width: 456px;
-        max-height: 440px;
+        max-width: 456px;
         margin-left: 32px;
     }
 }
@@ -31,7 +29,7 @@
 
 @media screen and (max-width: 339px) {
     .place__text {
-        width: 90%;
+        max-width: 90%;
         margin-left: 0px;
         margin-top: 32px;
     }
