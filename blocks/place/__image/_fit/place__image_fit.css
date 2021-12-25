@@ -25,6 +25,5 @@
 @media screen and (max-width: 339px) {
     .place__image_fit {
         width: 100vw;
-        margin-left: -16px;
     }
 }

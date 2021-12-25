@@ -9,14 +9,9 @@
     min-width: 288px;
     opacity: 1;
     margin-bottom: 0px;
+    margin-left: 0px;
 }
 
 .place__website_link:hover {
     opacity: 0.8;
-}
-
-@media screen and (max-width: 768px) {
-    .place__website_link {
-        margin-left: 0px;
-    }
 }
