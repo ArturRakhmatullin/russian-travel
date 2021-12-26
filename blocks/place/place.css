@@ -9,13 +9,7 @@
     margin-bottom: 0px;
 }
 
-@media screen and (min-width: 1281px) {
-    .place {
-        justify-content: center;
-    }
-}
-
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
+@media screen and (min-width: 1025px) {
     .place {
         margin-left: calc((100% - 984px) / 2);
     }
@@ -31,13 +25,11 @@
     .place {
         margin-left: 24px;
         margin-bottom: 73px;
-        justify-content: center;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place {
-        margin-left: 16px;
         margin-bottom: 50px;
     }
 }

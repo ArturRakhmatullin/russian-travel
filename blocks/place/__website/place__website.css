@@ -2,12 +2,10 @@
     max-width: 484px;
     margin-left: 40px;
     margin-bottom: 48px;
-    align-self: flex-end;
-    display: flex;
+    display: inline-block;
     direction: column;
-    flex-wrap: wrap;
-    align-items: flex-end;
     position: relative;
+    align-self: flex-end;
 }
 
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
@@ -36,5 +34,6 @@
         max-width: 90%;
         margin-left: 0px;
         margin-bottom: 32px;
+        margin-left: 16px;
     }
 }

@@ -5,6 +5,7 @@
     position: relative;
     margin-top: 92px;
     margin-bottom: 92px;
+    justify-content: center;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
