@@ -21,10 +21,16 @@
     }
 }
 
-@media screen and (min-width: 321px) and (max-width: 768px) {
+@media screen and (min-width: 400px) and (max-width: 768px) {
     .place {
         margin-left: 24px;
         margin-bottom: 73px;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 380px) {
+    .place {
+        margin-left: 0px;
     }
 }
 
