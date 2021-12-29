@@ -30,7 +30,7 @@
     .place__paragraph {
         padding-top: 25px;
         margin-left: 16px;
-        max-width: 288px;
+        width: 288px;
     }
 }
 
