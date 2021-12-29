@@ -1,7 +1,7 @@
 .place {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1280px;
+    max-width: 984px;
     margin-bottom: 80px;
 }
 
@@ -11,13 +11,14 @@
 
 @media screen and (min-width: 1025px) {
     .place {
-        margin-left: calc((100% - 984px) / 2);
+        margin-left: 0px;
     }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .place {
         margin-left: 48px;
+        max-width: 928px;
     }
 }
 
@@ -25,6 +26,7 @@
     .place {
         margin-left: 24px;
         margin-bottom: 73px;
+        max-width: 720px;
     }
 }
 
@@ -37,5 +39,6 @@
 @media screen and (max-width: 320px) {
     .place {
         margin-bottom: 50px;
+        max-width: 320px;
     }
 }
