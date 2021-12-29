@@ -23,6 +23,7 @@
 @media screen and (min-width: 321px) and (max-width: 768px) {
     .place__paragraph:last-child {
         padding-top: 25px;
+        max-width: 352px;
     }
 }
 
